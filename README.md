@@ -2,8 +2,6 @@
 
 **Status:** Executing | **Target:** Embedded Systems / Edge AI Engineer in Northern Europe
 
-> See [`SUMMARY.md`](./SUMMARY.md) for a quick snapshot updated each session.
-
 ```mermaid
 timeline
     title Roadmap
@@ -16,11 +14,11 @@ timeline
 
 ## Structure
 
-| Folder | Contents |
-|---|---|
-| [`00_Strategy/`](./00_Strategy/) | Master plan, long-term objectives |
-| [`01_Academic/`](./01_Academic/) | Study plans, CFU tracking, exam notes |
-| [`02_Technical_Projects/`](./02_Technical_Projects/) | Hardware/software portfolio specs |
-| [`03_Financial_Logistics/`](./03_Financial_Logistics/) | ER.GO scholarship, ISEE, housing |
-| [`04_Career_Development/`](./04_Career_Development/) | Internship search, industry research |
-| [`99_Archive/`](./99_Archive/) | Completed milestones, historical docs |
+| Folder                                                 | Contents                              |
+| ------------------------------------------------------ | ------------------------------------- |
+| [`00_Strategy/`](./00_Strategy/)                       | Master plan, long-term objectives     |
+| [`01_Academic/`](./01_Academic/)                       | Study plans, CFU tracking, exam notes |
+| [`02_Technical_Projects/`](./02_Technical_Projects/)   | Hardware/software portfolio specs     |
+| [`03_Financial_Logistics/`](./03_Financial_Logistics/) | ER.GO scholarship, ISEE, housing      |
+| [`04_Career_Development/`](./04_Career_Development/)   | Internship search, industry research  |
+| [`99_Archive/`](./99_Archive/)                         | Completed milestones, historical docs |
