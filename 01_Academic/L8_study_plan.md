@@ -40,11 +40,11 @@ color: var(--mk-color-green)
 | 98527   | FISICA II                    | 6   | Passed  | 24/30 | 27/02/2026 | FIS/01     |
 | 1002037 | Operating Systems            | 6   | Passed  | 27/30 | 03/02/2026 | ING-INF/05 |
 | 9797560 | INTERNET E SICUREZZA         | 9   | Passed  | 26/30 | 09/02/2026 | ING-INF/05 |
+| 1001378 | Object Oriented Programming  | 6   | In plan | -     | -          | ING-INF/05 |
+| 1001585 | BASIC ELECTRICAL ENGINEERING | 9   | In plan | -     | -          | ING-IND/31 |
+| 9797562 | MACHINE LEARNING             | 6   | In plan | -     | -          | ING-INF/05 |
 | 1001210 | ANALISI MATEMATICA II        | 6   | In plan | -     | -          | MAT/05     |
 | 9797583 | TEORIA DEI SEGNALI           | 12  | In plan | -     | -          | ING-INF/03 |
-| 1001585 | BASIC ELECTRICAL ENGINEERING | 9   | In plan | -     | -          | ING-IND/31 |
-| 1001378 | Object Oriented Programming  | 6   | In plan | -     | -          | ING-INF/05 |
-| 9797562 | MACHINE LEARNING             | 6   | In plan | -     | -          | ING-INF/05 |
 
 ---
 
@@ -58,11 +58,11 @@ color: var(--mk-color-green)
 | Codice  | Corso                      | CFU | Esito   | Data       | SSD        |
 | :------ | :------------------------- | :-- | :------ | :--------- | :--------- |
 | 9794945 | Educational debt           | 0   | Passed  | 20/01/2025 | -          |
-| 1001336 | Automatics                 | 12  | In plan | -          | ING-INF/04 |
-| 1001258 | Electronics                | 9   | In plan | -          | ING-INF/01 |
 | 9797564 | COMPUTER ARCHITECTURES...  | 12  | In plan | -          | ING-INF/05 |
-| 9797565 | SOFTWARE DESIGN AND WEB... | 12  | In plan | -          | ING-INF/05 |
+| 1001258 | Electronics                | 9   | In plan | -          | ING-INF/01 |
 | 1014457 | Digital communications     | 6   | In plan | -          | ING-INF/03 |
+| 1001336 | Automatics                 | 12  | In plan | -          | ING-INF/04 |
+| 9797565 | SOFTWARE DESIGN AND WEB... | 12  | In plan | -          | ING-INF/05 |
 | 9796790 | ALTRE CONOSCENZE UTILI     | 2   | In plan | -          | -          |
 | 9793828 | PROVA FINALE               | 3   | In plan | -          | -          |
 | 1001164 | Optional subject           | 12  | In plan | -          | -          |
