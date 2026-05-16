@@ -1,4 +1,4 @@
-# Master Plan (V7) — Andrea d'Amico
+# Master Plan (V7)
 
 **Status:** Executing | **Target:** Embedded Systems / Edge AI Engineer in Northern Europe
 
