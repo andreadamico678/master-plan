@@ -16,4 +16,17 @@ The ER.GO scholarship for out-of-town students provides:
 
 ## 2.3 Eligibility Requirements
 
-Maintenance of the scholarship for the second year requires passing a specific number of university credits (CFUs) by August 10th of the first academic year.
+- Maintenance of the scholarship for the second year requires passing a specific number of university credits (CFUs) by August 10th of the first academic year.
+
+## 2.4 European Salary Benchmarks (2026)
+
+To maximize real earnings, geographic arbitrage is essential.
+
+| Region / Level | Entry | Senior | Lead | Principal |
+| :--- | :--- | :--- | :--- | :--- |
+| **UK: London** | £45k - £65k | £60k - £85k | £90k - £120k | £95k - £110k |
+| **UK: Midlands** | £35k - £48k | £50k - £65k | £65k - £80k | £80k - £95k |
+| **France** | ~€41k | ~€55k | ~€55.5k | €59k+ |
+| **Switzerland** | €85k+ | €110k+ | €130k+ | €150k+ |
+
+*Note: Switzerland offers the highest gross accumulation but requires careful management of the ~€3,800/mo CoL.*

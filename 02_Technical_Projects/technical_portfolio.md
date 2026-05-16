@@ -62,8 +62,9 @@ The pipeline is constant across all phases:
 
 Each future phase applies the same pipeline to a new architectural base:
 
-- **Zephyr RTOS + CAN bus** — port to Zephyr on STM32/nRF52; swap IMU input for CAN frame stream (extends IDS research)
-- **Rust `no_std` + RTIC** — rewrite in Rust using `embedded-hal`; targeting safety-critical role positioning
+- **Zephyr RTOS + CAN bus** — port to Zephyr on STM32/nRF52; swap IMU input for CAN frame stream (extends IDS research).
+- **Sovereign Silicon (RISC-V)** — implement custom hardware accelerators for the anomaly pipeline on a RISC-V FPGA platform (e.g., PolarFire). Focus on ISO 26262 safety extensions.
+- **Memory-Safe Rust + CRA** — full rewrite in Rust using `no_std` + RTIC. Implement "secure-by-design" principles required by the European Cyber Resilience Act.
 
 ---
 
@@ -75,7 +76,9 @@ Each future phase applies the same pipeline to a new architectural base:
 | FreeRTOS | ✅ Core | Phase 1 scheduling base |
 | Embedded Linux (Buildroot) | 🔴 High | Required for systems-level roles (NXP, Nokia) |
 | TFLite Micro / ONNX Runtime | 🔴 High | Edge AI differentiator — thread constant |
+| Rust (embedded) | 🔴 High | Memory safety + CRA compliance (50% production jump) |
+| RISC-V | 🔴 High | Open hardware; target for "Sovereign Silicon" track |
 | CAN bus / ISO 11898 | 🟡 Medium | Automotive — bridges IDS research to portfolio |
 | Zephyr RTOS | 🟡 Medium | Growing adoption; Phase 3 base |
-| Rust (embedded) | 🟡 Medium | Safety-critical differentiator, 2027+ |
 | Docker / CI (GitHub Actions) | ✅ Core | Portfolio reproducibility |
+| CRA Compliance | ✅ Core | Legal mandate for European connected devices |

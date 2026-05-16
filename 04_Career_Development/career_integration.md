@@ -15,3 +15,6 @@ The internship search will focus on European hardware hubs:
 ## 5.3 Goal
 
 Transition the Master's thesis internship into a full-time professional contract upon graduation.
+
+---
+See also: [Market Analysis](file:///c:/Users/Andrea/Desktop/projects/professional/master-plan/04_Career_Development/market_analysis.md)

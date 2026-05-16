@@ -42,4 +42,15 @@ Degree prerequisites. Completion is the goal; deep mastery is not required for t
 - **Physics** — degree requirement; physical intuition useful but not a differentiator
 - **Signal Theory** — relevant to sensor signal processing at a conceptual level; depth not needed beyond exam pass
 - **Digital Communications** — degree requirement; overlaps marginally with CAN/network protocol work
-  _Strategy: Prioritize completion and credit acquisition over exhaustive mastery in this category._
+## 3.2 The Cesena Advantage (LM-32)
+
+The University of Bologna’s Cesena Campus serves as the strategic entry point for Master's specialization (Intelligent Embedded Systems).
+- **Specialization**: Direct focus on Edge Intelligence and hardware-software integration.
+- **Financial Slate**: Leveraging ER.GO support allows for a debt-free academic foundation, maximizing focus on complex curriculum mastery.
+
+## 3.3 Scholarship Maintenance (ER.GO)
+
+Maintenance of the scholarship is strictly performance-dependent:
+- **CFU Threshold**: Must pass a specific number of credits (CFUs) by **August 10th** of the first academic year.
+- **Validation**: Requires annual ISEE assessment and enrollment status verification.
+- **Living Costs**: The ~€8,130 annual grant is designed to fully offset cost of living in Cesena.

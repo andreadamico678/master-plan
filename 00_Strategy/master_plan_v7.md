@@ -37,10 +37,19 @@ graph TD
     style Phase_3 fill:#ebf5fb,stroke:#3498db,color:#000
 ```
 
-## Detailed Sections
+## 2. Strategic Specialization Tracks
+
+The 2026 market mandates a pivot away from generalist engineering toward high-barrier niches:
+
+- **Track A: The "Sovereign Silicon" Architect**: Focus on RISC-V and custom hardware accelerators. Ideal for the German automotive sector (ISO 26262 compliance).
+- **Track B: The "Memory-Safe" DevSecOps Expert**: Focus on Rust and cyber-resilience (CRA compliance). Target for secure industrial and consumer systems.
+- **Track C: The "MedTech" Intelligence Specialist**: Focus on connected healthcare and agentic AI in surgery. High-value target for the Swiss pharma/tech sector.
+
+## 3. Detailed Sections
 
 - [Academic Strategy](file:///c:/Users/Andrea/Desktop/projects/professional/master-plan/01_Academic/academic_strategy.md)
 - [Technical Portfolio](file:///c:/Users/Andrea/Desktop/projects/professional/master-plan/02_Technical_Projects/technical_portfolio.md)
 - [Financial Logistics](file:///c:/Users/Andrea/Desktop/projects/professional/master-plan/03_Financial_Logistics/financial_strategy.md)
-- [Career Development](file:///c:/Users/Andrea/Desktop/projects/professional/master-plan/04_Career_Development/career_integration.md)
+- [Market Analysis](file:///c:/Users/Andrea/Desktop/projects/professional/master-plan/04_Career_Development/market_analysis.md)
+- [Career Integration](file:///c:/Users/Andrea/Desktop/projects/professional/master-plan/04_Career_Development/career_integration.md)
 - [Roadmap Timeline](file:///c:/Users/Andrea/Desktop/projects/professional/master-plan/00_Strategy/roadmap_timeline.md)
