@@ -44,6 +44,7 @@ The 2026 market mandates a pivot away from generalist engineering toward high-ba
 - **Track A: The "Sovereign Silicon" Architect**: Focus on RISC-V and custom hardware accelerators. Ideal for the German automotive sector (ISO 26262 compliance).
 - **Track B: The "Memory-Safe" DevSecOps Expert**: Focus on Rust and cyber-resilience (CRA compliance). Target for secure industrial and consumer systems.
 - **Track C: The "MedTech" Intelligence Specialist**: Focus on connected healthcare and agentic AI in surgery. High-value target for the Swiss pharma/tech sector.
+- **Track D: The "Dexter of Silicon" (Hardware Forensics & Cyber-Intel)**: Focus on physical reverse engineering, chip-off forensics, JTAG boundary scans, and side-channel analysis. Targeted at private security consulting, Europol, or national law enforcement agencies.
 
 ## 3. Detailed Sections
 

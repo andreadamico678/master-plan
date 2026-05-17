@@ -1,26 +1,40 @@
-# 2. Financial Strategy (ER.GO Support)
+# 2. Financial Strategy & Specialization Funding
 
-Given the eligibility for full financial aid, the Master's degree will be pursued at the University of Bologna (Cesena Campus) to maximize state support and minimize cost of living.
+Given eligibility for maximum financial aid (ISEE < €5,000), the academic specialization path is optimized to achieve zero-debt graduation while keeping emergency levers active.
 
-## 2.1 The Cesena Advantage
+---
 
-The LM-32 Intelligent Embedded Systems program is located in Cesena. The city offers a high quality of life with manageable living expenses that can be fully covered by the regional scholarship.
+## 2.1 Specialization Funding Strategy
 
-## 2.2 Scholarship Logistics
+### 🚀 Plan A: EIT Digital Merit Scholarship (The Rocketship)
+*   **Target**: November 2026 application cycle.
+*   **Funding**: Full tuition fee waiver + significant monthly living allowance.
+*   **Decision Rule**: "Apply to see the money." If awarded the full merit scholarship, accept. If not, immediately execute Plan B.
 
-The ER.GO scholarship for out-of-town students provides:
+### 🛡️ Plan B: ER.GO Scholarship (The Bulletproof Fallback)
+*   **Target**: University of Bologna (Cesena Campus) LM-32 program.
+*   **Funding Benefits**:
+    *   Full tuition fee exemption.
+    *   Annual grant of approximately **€8,130** cash.
+    *   Access to university housing or a rental subsidy.
+*   **Eligibility Maintenance**: Strictly pass the required university credits (CFUs) by **August 10th** of the first academic year.
 
-- Full tuition exemption.
-- An annual grant of approximately 8,130 EUR.
-- Access to university housing or a rental subsidy.
+### 💼 Emergency Financial Lever: Intesa Sanpaolo "Per Merito" Loan
+*   **Strategic Role**: Emergency financial buffer.
+*   **Details**: If temporary cash flow shortages or unexpected logistical expenses occur, utilize the "Per Merito" student loan.
+*   **Conditions**: Requires **no guarantor**, offers extremely low interest rates, and includes a long grace period, making it a safe financial safety net.
 
-## 2.3 Eligibility Requirements
+---
 
-- Maintenance of the scholarship for the second year requires passing a specific number of university credits (CFUs) by August 10th of the first academic year.
+## 2.2 The Cesena Advantage (Plan B Logistics)
 
-## 2.4 European Salary Benchmarks (2026)
+The LM-32 Intelligent Embedded Systems program is located in Cesena. The city offers a high quality of life with manageable living expenses that can be fully covered by the ER.GO regional scholarship.
 
-To maximize real earnings, geographic arbitrage is essential.
+---
+
+## 2.3 European Salary Benchmarks (2026)
+
+To maximize real earnings upon graduation, geographic arbitrage is essential.
 
 | Region / Level | Entry | Senior | Lead | Principal |
 | :--- | :--- | :--- | :--- | :--- |

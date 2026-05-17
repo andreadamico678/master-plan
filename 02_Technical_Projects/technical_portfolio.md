@@ -1,84 +1,85 @@
-# 4. Technical Portfolio (Embedded Systems / Edge AI)
+# 4. Technical Portfolio & "Double-Dipping" Strategy
 
-The portfolio is built around a **single evolving project**: a *Sensor Anomaly Monitor* — a real-time data acquisition and anomaly detection system. Each phase re-implements the same application on a different architectural base, creating a coherent, cross-comparable portfolio.
+To optimize cognitive load, eliminate study distractions, and maintain absolute focus on academic excellence, the portfolio strategy is streamlined. Instead of building dozens of scattered side projects, development is consolidated into exactly **one** high-barrier pre-graduation project, followed by the weaponization of university coursework.
 
-> **Core thesis**: *Same problem. Different architecture. Each time, deeper.*
+---
 
-The pipeline is constant across all phases:
+## 4.1 The Strategic Portfolio Roadmap
+
+```mermaid
+gantt
+    title Portfolio Development Timeline
+    dateFormat  YYYY-MM
+    section Pre-November 2026
+    STM32 Constrained Project (EIT Application) :active, p1, 2026-06, 2026-11
+    section Master's Phase (2028-2029)
+    LM-32 Academic Double-Dipping (GitHub)     :active, p2, 2028-09, 2029-12
+    section Thesis Phase (2029-2030)
+    Erasmus+ Capstone Thesis (6-Month Project) :active, p3, 2030-01, 2030-07
 ```
-[Sensor Acquisition] → [Feature Extraction] → [Anomaly Detection] → [Alert / Log Output]
-```
+
+### 1. Pre-November 2026: The EIT Digital Application Piece (STM32 Nucleo)
+*   **Goal**: Build exactly **ONE** high-quality, fully documented bare-metal/RTOS project to serve as the crown jewel of EIT Digital and scholarship applications.
+*   **Scope**: A *Sensor Anomaly Monitor* (real-time data acquisition and inference) handling real-world physical constraints:
+    *   **Hardware**: STM32 Nucleo board, IMU sensor connected via $I^2C$.
+    *   **Software**: Bare-metal C/C++, HAL/LL drivers, and FreeRTOS.
+    *   **Constraints**: Managing physical scarcity (strict limits on RAM/Flash, optimized power consumption/low-power modes, RTOS determinism).
+    *   **Deliverables**: A single, immaculate GitHub repository featuring production-grade code, detailed circuit schematics, performance benchmarks (latency, memory footprint), and a professional `README.md`.
+
+### 2. Master's Phase (2028-2029): The "Double-Dipping" Strategy
+*   **Goal**: Eliminate the pressure to build separate "side projects" that compete with study time.
+*   **Execution**:
+    *   **Weaponize mandatory LM-32 university assignments**. For exams like *Embedded Systems and IoT*, *Distributed Systems*, and *Cybersecurity*, write exceptionally clean, professional code.
+    *   Format these academic projects with commercial-grade `README.md` files, architectural diagrams, hardware schematics, and unit tests.
+    *   Push them directly to GitHub as showcase pieces. This transforms study hours into direct portfolio assets without extra overhead.
+
+### 3. Thesis Phase (2029-2030): The 6-Month Capstone Portfolio
+*   **Goal**: Secure a prestigious 6-month Master's thesis abroad (via Erasmus+ Traineeship) at a major Northern European company or research institute (e.g., NXP, ASML, Nokia).
+*   **Execution**: The thesis itself will serve as the ultimate professional capstone project. By solving a real-world, high-impact industry problem, it acts as a direct bridge into a full-time professional contract upon graduation, rendering separate personal projects obsolete.
 
 ---
 
-## 4.1 Stack Progression
+## 4.2 Core Project Specification: Sensor Anomaly Monitor (Pre-November 2026)
 
-| Phase | Period | Architectural Base | Status |
-| :---- | :----- | :----------------- | :----- |
-| Phase 1 | Summer 2026 | STM32 + HAL + FreeRTOS | 🔵 In Progress |
-| Phase 2 | Autumn 2026 | Embedded Linux (Buildroot) + ONNX Runtime | 🔲 Planned |
-| Phase 3+ | 2027+ | Zephyr / Rust / CAN bus | 🔲 Future |
+**Base**: STM32 Nucleo · C/C++ · FreeRTOS
+**Sensor**: IMU (I2C) — Accelerometer + Gyroscope stream
+**Analysis**: Statistical anomaly detection & optimized thresholding
+**FreeRTOS Task Architecture**:
+- `task_acquire`: Poll sensor at fixed rate via $I^2C$.
+- `task_process`: Compute rolling statistics and handle signal filtering.
+- `task_output`: UART telemetry logging + GPIO LED alarm trigger.
 
----
-
-## 4.2 Phase 1 — STM32 + FreeRTOS (Summer 2026)
-
-**Base**: STM32 Nucleo · HAL + LL drivers · FreeRTOS · C
-
-**Sensor**: IMU (I2C) — accelerometer + gyroscope data stream
-
-**Detection**: Statistical thresholding (mean ± 2σ) as baseline; TFLite Micro quantized model as stretch goal
-
-**FreeRTOS tasks**:
-- `task_acquire` — poll sensor at fixed rate via I2C
-- `task_process` — compute rolling statistics / run inference
-- `task_output` — UART log + GPIO alert pin
-
-**Deliverables**:
-- Public GitHub repo: firmware source, wiring diagram, README with setup instructions
-- Measured: inference/detection latency (ms), RAM usage, false positive rate
+**Scarcity Management**:
+- **Static Memory**: No dynamic allocation (`malloc` banned) to prevent heap fragmentation.
+- **Power Optimization**: Place processor in Sleep/Stop mode between RTOS ticks to maximize battery life.
+- **Real-Time Determinism**: Strict task priorities to ensure zero missed samples.
 
 ---
 
-## 4.3 Phase 2 — Embedded Linux (Autumn 2026)
+## 4.3 Philosophical Pivot: AI-Proofing (Architecture vs. Syntax)
 
-**Base**: Raspberry Pi 4 · Buildroot image · C++ userspace daemon
-
-**Application**: Same sensor monitor pipeline, ported to Linux userspace — same sensor, same detection logic
-
-**Key differences from Phase 1**:
-- Scheduling via `pthread` / Linux scheduler instead of FreeRTOS tasks
-- Sensor I/O via sysfs / I2C device file
-- ONNX Runtime (C++ API) replacing TFLite Micro
-- Output: structured JSON log via stdout, managed by systemd
-
-**Deliverables**:
-- Buildroot config + userspace daemon on GitHub
-- Brief latency/footprint comparison vs. Phase 1 (bare-metal vs. Linux)
+> [!TIP]
+> ### 🧠 AI-Proofing: Architecture vs. Syntax
+> To eliminate future AI-anxiety, understand the fundamental boundary between AI capability and physical engineering:
+> 
+> *   **Software Syntax (AI Domain)**: AI is highly proficient at writing boilerplate code, general-purpose syntax, and standard driver logic. This is a commodity.
+> *   **Embedded Architecture (Human Domain)**: The Embedded Engineer acts as the architect of physical scarcity. AI cannot probe a custom PCB with an oscilloscope, optimize for a hard 512KB RAM limit, guarantee microsecond-level RTOS determinism under battery-life constraints, or physically debug JTAG hardware lines.
+> 
+> **Actionable Focus**: Focus learning on **why** to use specific paradigms (e.g., Interrupts, Static Memory Pools, direct register mapping) for physical hardware, rather than just *how* to write the syntax. You are an architect of the physical world, not just a writer of code.
 
 ---
 
-## 4.4 Future Directions (2027+)
-
-Each future phase applies the same pipeline to a new architectural base:
-
-- **Zephyr RTOS + CAN bus** — port to Zephyr on STM32/nRF52; swap IMU input for CAN frame stream (extends IDS research).
-- **Sovereign Silicon (RISC-V)** — implement custom hardware accelerators for the anomaly pipeline on a RISC-V FPGA platform (e.g., PolarFire). Focus on ISO 26262 safety extensions.
-- **Memory-Safe Rust + CRA** — full rewrite in Rust using `no_std` + RTIC. Implement "secure-by-design" principles required by the European Cyber Resilience Act.
-
----
-
-## 4.5 Technology Radar
+## 4.4 Technology Radar
 
 | Technology | Priority | Rationale |
 | :--------- | :------- | :-------- |
 | C/C++ (bare-metal + HAL) | ✅ Core | Hiring baseline for all embedded roles |
-| FreeRTOS | ✅ Core | Phase 1 scheduling base |
-| Embedded Linux (Buildroot) | 🔴 High | Required for systems-level roles (NXP, Nokia) |
+| FreeRTOS | ✅ Core | Baseline RTOS scheduling base for STM32 project |
+| Embedded Linux (Buildroot) | 🔴 High | Required for systems-level roles (NXP, Nokia) in Master's |
 | TFLite Micro / ONNX Runtime | 🔴 High | Edge AI differentiator — thread constant |
 | Rust (embedded) | 🔴 High | Memory safety + CRA compliance (50% production jump) |
 | RISC-V | 🔴 High | Open hardware; target for "Sovereign Silicon" track |
 | CAN bus / ISO 11898 | 🟡 Medium | Automotive — bridges IDS research to portfolio |
-| Zephyr RTOS | 🟡 Medium | Growing adoption; Phase 3 base |
-| Docker / CI (GitHub Actions) | ✅ Core | Portfolio reproducibility |
+| Zephyr RTOS | 🟡 Medium | Growing adoption; modern RTOS standard |
+| Docker / CI (GitHub Actions) | ✅ Core | Portfolio reproducibility and professional workflow |
 | CRA Compliance | ✅ Core | Legal mandate for European connected devices |

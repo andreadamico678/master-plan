@@ -13,7 +13,7 @@ The LM-32 at UniBo Cesena is the most aligned Master's degree available in the I
 
 - **Name-to-role alignment**: "Intelligent Embedded Systems" maps directly to job titles at NXP, Nokia, and Nordic Semiconductor
 - **Curriculum depth**: first year is entirely compulsory and covers Embedded Systems & IoT, Cybersecurity, Distributed Systems, and Intelligent Systems Engineering — all directly applicable to the technical portfolio
-- **EIT Digital track availability**: while the program offers a 1st year at UniBo and 2nd year abroad, this path is deprioritized due to high financial requirements.
+- **EIT Digital track availability**: Plan A (The Rocketship) is to apply in November 2026. This is an "Apply to see the money" strategy—only pursued if a full merit scholarship is awarded. Otherwise, fall back to the Local Track (Plan B).
 - **Thesis flexibility**: can be completed via Erasmus+ Traineeship or company internship, enabling a structured entry into a Northern European employer
 
 ---
@@ -56,12 +56,10 @@ Thesis prepared locally, via Erasmus+ Traineeship, or in partnership with a comp
 
 | Track | Structure | Strategic fit |
 | :---- | :-------- | :------------ |
-| **Local Track** | 2 years at UniBo Cesena | Simpler logistics; lower cost; thesis abroad still possible via Erasmus+ |
-| **EIT Digital Track** | Year 1 UniBo → Year 2 abroad | Built-in international exposure; high financial burden (tuition/living costs); complex logistics |
+| **Plan A: EIT Digital Track** | Year 1 UniBo → Year 2 abroad | High international exposure. Only viable if a full merit-based scholarship is secured in November 2026. |
+| **Plan B: Local Track (Cesena)** | 2 years at UniBo Cesena | Bulletproof fallback; fully funded via ER.GO scholarship. Leverage UniBo network for Erasmus+ thesis abroad in NL/SE/DE. |
 
-**Final Decision**: **Local Track** with Erasmus+ Traineeship thesis.
-> [!IMPORTANT]
-> The EIT Digital Track is formally excluded due to extreme financial constraints (ISEE < 5,000 EUR). The Local Track combined with Erasmus+ grants provides a sustainable path to international exposure without the prohibitive costs of the EIT program.
+**Strategic Decision**: Apply to the **EIT Digital Track** in November 2026 (Plan A) as a merit scholarship attempt ("Apply to see the money"). If a full scholarship is not awarded, immediately fall back to the **Local Track** at Cesena (Plan B) with ER.GO funding, maintaining strict CFU compliance and securing a 6-month Erasmus+ thesis abroad in 2029.
 
 ---
 
