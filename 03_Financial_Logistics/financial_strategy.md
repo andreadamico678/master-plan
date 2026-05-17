@@ -6,27 +6,18 @@ Given eligibility for maximum financial aid (ISEE < €5,000), the academic spec
 
 ## 2.1 Specialization Funding Strategy
 
-### 🚀 Plan A: EIT Digital Merit Scholarship (The Rocketship)
-*   **Target**: November 2026 application cycle.
-*   **Funding**: Full tuition fee waiver + significant monthly living allowance.
-*   **Decision Rule**: "Apply to see the money." If awarded the full merit scholarship, accept. If not, immediately execute Plan B.
-
-### 🛡️ Plan B: ER.GO Scholarship (The Bulletproof Fallback)
+### 🛡️ Primary Strategy: ER.GO Scholarship (100% Guaranteed Safety)
 *   **Target**: University of Bologna (Cesena Campus) LM-32 program.
 *   **Funding Benefits**:
     *   Full tuition fee exemption.
     *   Annual grant of approximately **€8,130** cash.
-    *   Access to university housing or a rental subsidy.
-*   **Eligibility Maintenance**: Strictly pass the required university credits (CFUs) by **August 10th** of the first academic year.
-
-### 💼 Emergency Financial Lever: Intesa Sanpaolo "Per Merito" Loan
-*   **Strategic Role**: Emergency financial buffer.
-*   **Details**: If temporary cash flow shortages or unexpected logistical expenses occur, utilize the "Per Merito" student loan.
-*   **Conditions**: Requires **no guarantor**, offers extremely low interest rates, and includes a long grace period, making it a safe financial safety net.
+    *   Access to university housing or a high rental subsidy.
+*   **Eligibility Maintenance**: Strictly pass the required university credits (CFUs) by **August 10th** of each academic year (very manageable under a focused study regimen).
+*   **Strategic Rationale**: Zero debt, absolute capital safety, and full focus on technical learning.
 
 ---
 
-## 2.2 The Cesena Advantage (Plan B Logistics)
+## 2.2 The Cesena Advantage (ER.GO Logistics)
 
 The LM-32 Intelligent Embedded Systems program is located in Cesena. The city offers a high quality of life with manageable living expenses that can be fully covered by the ER.GO regional scholarship.
 

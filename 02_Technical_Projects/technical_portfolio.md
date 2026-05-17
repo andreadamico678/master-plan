@@ -1,6 +1,6 @@
 # 4. Technical Portfolio & "Double-Dipping" Strategy
 
-To optimize cognitive load, eliminate study distractions, and maintain absolute focus on academic excellence, the portfolio strategy is streamlined. Instead of building dozens of scattered side projects, development is consolidated into exactly **one** high-barrier pre-graduation project, followed by the weaponization of university coursework.
+To optimize cognitive load, eliminate study distractions, and maintain absolute focus on academic excellence, the portfolio strategy is streamlined. Instead of building dozens of scattered side projects or rushing under a stressful deadline, development is consolidated into a **Slow-Burn** approach during the Bachelor's breaks, followed by the **Double-Dipping** weaponization of LM-32 university coursework.
 
 ---
 
@@ -10,31 +10,32 @@ To optimize cognitive load, eliminate study distractions, and maintain absolute 
 gantt
     title Portfolio Development Timeline
     dateFormat  YYYY-MM
-    section Pre-November 2026
-    STM32 Constrained Project (EIT Application) :active, p1, 2026-06, 2026-11
+    section Bachelor's Phase (2026-2027)
+    Calm STM32 / C / C++ Foundational Breaks :active, p1, 2026-06, 2027-09
     section Master's Phase (2028-2029)
-    LM-32 Academic Double-Dipping (GitHub)     :active, p2, 2028-09, 2029-12
+    LM-32 Mandatory Projects (Double-Dipping) :active, p2, 2028-09, 2029-12
     section Thesis Phase (2029-2030)
     Erasmus+ Capstone Thesis (6-Month Project) :active, p3, 2030-01, 2030-07
 ```
 
-### 1. Pre-November 2026: The EIT Digital Application Piece (STM32 Nucleo)
-*   **Goal**: Build exactly **ONE** high-quality, fully documented bare-metal/RTOS project to serve as the crown jewel of EIT Digital and scholarship applications.
+### 1. Bachelor's Phase (2026-2027): Slow-Burn Foundations (STM32 Nucleo)
+*   **Goal**: Build foundational STM32 / C / C++ projects calmly during university breaks. Since the November 2026 EIT deadline is gone, this is **no longer an emergency**.
 *   **Scope**: A *Sensor Anomaly Monitor* (real-time data acquisition and inference) handling real-world physical constraints:
     *   **Hardware**: STM32 Nucleo board, IMU sensor connected via $I^2C$.
     *   **Software**: Bare-metal C/C++, HAL/LL drivers, and FreeRTOS.
     *   **Constraints**: Managing physical scarcity (strict limits on RAM/Flash, optimized power consumption/low-power modes, RTOS determinism).
     *   **Deliverables**: A single, immaculate GitHub repository featuring production-grade code, detailed circuit schematics, performance benchmarks (latency, memory footprint), and a professional `README.md`.
+    *   **Pacing**: Developed calmly during summer and winter breaks, fully keeping the focus during the semesters on passing the L-8 core exams.
 
-### 2. Master's Phase (2028-2029): The "Double-Dipping" Strategy
+### 2. Master's Phase (2028-2029): The Primary "Double-Dipping" Engine
 *   **Goal**: Eliminate the pressure to build separate "side projects" that compete with study time.
 *   **Execution**:
-    *   **Weaponize mandatory LM-32 university assignments**. For exams like *Embedded Systems and IoT*, *Distributed Systems*, and *Cybersecurity*, write exceptionally clean, professional code.
+    *   **Primary Portfolio Generation**: Will happen during the LM-32 via mandatory university projects. For exams like *Embedded Systems and IoT*, *Distributed Systems*, and *Cybersecurity*, write exceptionally clean, professional code.
     *   Format these academic projects with commercial-grade `README.md` files, architectural diagrams, hardware schematics, and unit tests.
     *   Push them directly to GitHub as showcase pieces. This transforms study hours into direct portfolio assets without extra overhead.
 
 ### 3. Thesis Phase (2029-2030): The 6-Month Capstone Portfolio
-*   **Goal**: Secure a prestigious 6-month Master's thesis abroad (via Erasmus+ Traineeship) at a major Northern European company or research institute (e.g., NXP, ASML, Nokia).
+*   **Goal**: Secure a prestigious 6-month Master's thesis abroad (via Erasmus+ Traineeship) at a major Northern European company or research institute (e.g., NXP, ASML, Nokia, Volvo, Ericsson) in the Netherlands, Sweden, or Germany.
 *   **Execution**: The thesis itself will serve as the ultimate professional capstone project. By solving a real-world, high-impact industry problem, it acts as a direct bridge into a full-time professional contract upon graduation, rendering separate personal projects obsolete.
 
 ---

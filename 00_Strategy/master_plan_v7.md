@@ -4,32 +4,39 @@ Status: Executing
 Date: May 2026
 Agent: Andrea d'Amico (20yo L-8 Engineering Student, UniCT)
 Origin: Giarre, Sicily (ISEE < 5,000 EUR)
-Destination: Northern Europe (Finland / Netherlands / Scandinavia)
+Destination: Northern Europe (Netherlands / Sweden / Germany)
 Role: Embedded Systems / Edge AI Engineer (LM-32)
 
 ## 1. Executive Summary
 
 This roadmap outlines the strategy to secure a high-value engineering role in the European hardware market. By leveraging regional financial support (ER.GO), building a specialized technical portfolio, and utilizing Erasmus+ mobility, the goal is to transition from a Bachelor's in Sicily to a professional career in Northern Europe.
 
+> [!IMPORTANT]
+> ## 🔴 The "Full UniBo" Strategy Lock
+> The EIT Digital track is officially dead and has been permanently dropped. The sole academic vehicle is now the **UniBo LM-32 in Computer Engineering (Cesena Campus)**, specifically targeting the **Intelligent Embedded Systems** curriculum.
+>
+> The mechanism for international relocation is strictly the **Erasmus+ / Bando Tesi all'Estero** during the final thesis year (2029-2030) at premium bilateral university targets.
+>
+> For a detailed strategic analysis of this shift, see the [EIT Digital Postmortem](file:///c:/Users/Andrea/Desktop/projects/professional/master-plan/00_Strategy/EIT_Digital_Postmortem.md).
+
 ```mermaid
 graph TD
     subgraph Phase_1 [Academic & Technical Foundation]
-        A[Spring 2026: Core Examinations] --> B[Summer 2026: STM32 Project Portfolio]
-        B --> C[2026-2027: Degree Completion]
-        C --> D{Graduation Window}
+        A[Spring-Summer 2026: L-8 Core Exams] --> B[2026-2027: Calm Portfolio & Degree Completion]
+        B --> D{L-8 Graduation Window}
     end
 
     subgraph Phase_2 [Master's Specialization]
-        D --> E[July 2028: Scholarship Application]
+        D --> E[July 2028: ER.GO Scholarship Apply]
         E --> F[Sept 2028: Relocation to Cesena]
         F --> G[Aug 2029: Credit Maintenance]
     end
 
-    subgraph Phase_3 [Corporate Integration]
-        G --> H[Oct 2029: Internship Planning]
-        H --> I[Winter 2029: Industry Outreach]
-        I --> J[Spring 2030: International Internship]
-        J --> K[Summer 2030: Professional Contract]
+    subgraph Phase_3 [Corporate & Global Integration]
+        G --> H[Oct 2029: Erasmus+ Thesis Prep]
+        H --> I[Winter 2029: Bilateral Uni Target Outreach]
+        I --> J[Spring 2030: Erasmus+ Thesis Internship]
+        J --> K[Summer 2030: Professional Contract Exit]
     end
 
     style K fill:#27ae60,stroke:#1e8449,stroke-width:2px,color:#fff
@@ -53,4 +60,6 @@ The 2026 market mandates a pivot away from generalist engineering toward high-ba
 - [Financial Logistics](file:///c:/Users/Andrea/Desktop/projects/professional/master-plan/03_Financial_Logistics/financial_strategy.md)
 - [Market Analysis](file:///c:/Users/Andrea/Desktop/projects/professional/master-plan/04_Career_Development/market_analysis.md)
 - [Career Integration](file:///c:/Users/Andrea/Desktop/projects/professional/master-plan/04_Career_Development/career_integration.md)
+- [EIT Digital Postmortem](file:///c:/Users/Andrea/Desktop/projects/professional/master-plan/00_Strategy/EIT_Digital_Postmortem.md)
 - [Roadmap Timeline](file:///c:/Users/Andrea/Desktop/projects/professional/master-plan/00_Strategy/roadmap_timeline.md)
+

@@ -11,10 +11,10 @@
 
 The LM-32 at UniBo Cesena is the most aligned Master's degree available in the Italian public university system for the target career path (Embedded Systems / Edge AI Engineer, Northern Europe). Key selection factors:
 
-- **Name-to-role alignment**: "Intelligent Embedded Systems" maps directly to job titles at NXP, Nokia, and Nordic Semiconductor
-- **Curriculum depth**: first year is entirely compulsory and covers Embedded Systems & IoT, Cybersecurity, Distributed Systems, and Intelligent Systems Engineering — all directly applicable to the technical portfolio
-- **EIT Digital track availability**: Plan A (The Rocketship) is to apply in November 2026. This is an "Apply to see the money" strategy—only pursued if a full merit scholarship is awarded. Otherwise, fall back to the Local Track (Plan B).
-- **Thesis flexibility**: can be completed via Erasmus+ Traineeship or company internship, enabling a structured entry into a Northern European employer
+- **Name-to-role alignment**: "Intelligent Embedded Systems" maps directly to job titles at NXP, Nokia, and Nordic Semiconductor.
+- **Curriculum depth**: The first year is entirely compulsory and covers Embedded Systems & IoT, Cybersecurity, Distributed Systems, and Intelligent Systems Engineering — all directly applicable to the technical portfolio.
+- **Erasmus+ / Bando Tesi all'Estero integration**: 100% focused on securing a high-caliber international thesis internship in the Netherlands (TU Eindhoven/TU Delft), Sweden (Chalmers), or Germany (TU Munich) as the core mechanism for international relocation, avoiding any curriculum dilution.
+- **Thesis flexibility**: Can be completed via Erasmus+ Traineeship, enabling a structured and direct entry into a Northern European employer.
 
 ---
 
@@ -52,14 +52,18 @@ Thesis prepared locally, via Erasmus+ Traineeship, or in partnership with a comp
 
 ---
 
-## Track Selection
+## Track Selection & Relocation Strategy
 
-| Track | Structure | Strategic fit |
-| :---- | :-------- | :------------ |
-| **Plan A: EIT Digital Track** | Year 1 UniBo → Year 2 abroad | High international exposure. Only viable if a full merit-based scholarship is secured in November 2026. |
-| **Plan B: Local Track (Cesena)** | 2 years at UniBo Cesena | Bulletproof fallback; fully funded via ER.GO scholarship. Leverage UniBo network for Erasmus+ thesis abroad in NL/SE/DE. |
+Since EIT Digital was officially dropped due to the geographic trap, curriculum compromises, and high financial risk, the program is streamlined into a single, bulletproof track:
 
-**Strategic Decision**: Apply to the **EIT Digital Track** in November 2026 (Plan A) as a merit scholarship attempt ("Apply to see the money"). If a full scholarship is not awarded, immediately fall back to the **Local Track** at Cesena (Plan B) with ER.GO funding, maintaining strict CFU compliance and securing a 6-month Erasmus+ thesis abroad in 2029.
+*   **The Academic Track**: 2 years at UniBo Cesena (Intelligent Embedded Systems).
+*   **Funding**: Fully funded via the **ER.GO Scholarship** (tuition fee exemption, housing, and ~€8,130 grant).
+*   **International Relocation Engine**: The final thesis (30 CFU) will be completed abroad via **Erasmus+ Traineeship / Bando Tesi all'Estero** at key partner universities in the target countries:
+    *   **Netherlands**: TU Eindhoven or TU Delft.
+    *   **Sweden**: Chalmers University.
+    *   **Germany**: TU Munich (TUM).
+
+This pathway guarantees absolute financial safety with zero debt, a pure curriculum focused 100% on Embedded Systems & Edge AI, and target-geographic placement for the post-graduation exit strategy.
 
 ---
 

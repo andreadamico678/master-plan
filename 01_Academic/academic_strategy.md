@@ -42,34 +42,23 @@ Degree prerequisites. Completion is the goal; deep mastery is not required for t
 - **Physics** — degree requirement; physical intuition useful but not a differentiator
 - **Signal Theory** — relevant to sensor signal processing at a conceptual level; depth not needed beyond exam pass
 - **Digital Communications** — degree requirement; overlaps marginally with CAN/network protocol work
-## 3.2 The Master's Specialization Strategy: Plan A vs. Plan B
-
-To ensure a debt-free, high-impact international education, the specialization phase is organized into a proactive "Rocketship" plan and a "Bulletproof Fallback" plan.
-
-### 🚀 Plan A: The EIT Digital "Rocketship" (Apply for the Money)
-*   **Action**: Apply to EIT Digital in **November 2026** using the L-8 GPA and the single high-quality STM32 project.
-*   **Strategic Rationale**: EIT Digital is a highly prestigious double-degree program (1st year at UniBo, 2nd year at a partner university abroad). This is an **"Apply to see the money"** strategy.
-*   **Execution**:
-    *   If a **full merit scholarship** (covering tuition and monthly living allowance) is awarded, accept immediately.
-    *   If not awarded a full merit scholarship, reject the offer and execute Plan B.
-
-### 🛡️ Plan B: The Bulletproof Fallback (UniBo Cesena LM-32 + ER.GO)
-*   **Action**: Enroll in the LM-32 *Intelligent Embedded Systems* program at the University of Bologna (Cesena Campus).
-*   **Funding**: Fully funded via the **ER.GO Scholarship** (annual grant of ~€8,130 + full tuition exemption + housing/rental subsidy).
-*   **Execution**:
-    *   **CFU Compliance**: Maintain strict compliance with credit requirements (CFUs passed by every August 10th) to ensure scholarship renewal and keep Italian funding.
-    *   **Erasmus+ Thesis**: In 2029, leverage the UniBo academic network to secure a 6-month Erasmus+ thesis abroad in NL/SE/DE.
-
-### 💼 Emergency Financial Lever: Intesa Sanpaolo "Per Merito" Loan
-*   **Status**: Kept as a documented safety net.
-*   **Details**: If temporary cash flow shortages occur, leverage the Intesa Sanpaolo "Per Merito" student loan. It requires **no guarantor**, has extremely low interest rates, and acts as an emergency financial buffer.
-
-## 3.3 Scholarship Maintenance (ER.GO)
-
-Maintenance of the ER.GO scholarship is strictly performance-dependent:
-- **CFU Threshold**: Must pass a specific number of credits (CFUs) by **August 10th** of the first academic year.
-- **Validation**: Requires annual ISEE assessment and enrollment status verification.
-- **Living Costs**: The ~€8,130 annual grant is designed to fully offset cost of living in Cesena.
+## 3.2 The Master's Specialization Strategy: The Full UniBo Lock
+ 
+ To ensure a debt-free, high-impact international education, the specialization phase is 100% consolidated into the **UniBo Cesena LM-32 (Intelligent Embedded Systems)** pathway. EIT Digital is officially dropped to eliminate geographic limitations, curriculum dilution, and financial risk (see the [EIT Digital Postmortem](file:///c:/Users/Andrea/Desktop/projects/professional/master-plan/00_Strategy/EIT_Digital_Postmortem.md)).
+ 
+ ### 🛡️ The Academic Vehicle: UniBo Cesena LM-32
+ *   **Action**: Enroll in the LM-32 *Intelligent Embedded Systems* program at the University of Bologna (Cesena Campus) in September 2028.
+ *   **Guaranteed Funding**: Funded via the **ER.GO Scholarship** (annual grant of ~€8,130 + full tuition exemption + housing/rental subsidy). This ensures 100% financial safety and zero student debt.
+ *   **Execution Keys**:
+     *   **CFU Compliance**: Maintain strict compliance with credit requirements (CFUs passed by every August 10th of each academic year) to ensure scholarship renewal.
+     *   **Erasmus+ / Bando Tesi all'Estero**: Leverage UniBo's premier bilateral agreements in 2029 to secure a 6-month international thesis internship at a target institution in the Netherlands (TU Eindhoven, TU Delft), Sweden (Chalmers), or Germany (TU Munich).
+ 
+ ## 3.3 Scholarship Maintenance (ER.GO)
+ 
+ Maintenance of the ER.GO scholarship is strictly performance-dependent:
+ - **CFU Threshold**: Must pass a specific number of credits (CFUs) by **August 10th** of each academic year.
+ - **Validation**: Requires annual ISEE assessment (maintaining ISEE < €5,000) and enrollment status verification.
+ - **Living Costs**: The ~€8,130 annual grant is designed to fully offset the cost of living in Cesena.
 
 ## 3.4 Language & Certifications
 
